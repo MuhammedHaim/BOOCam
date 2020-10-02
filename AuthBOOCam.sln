@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthBOOCam", "AuthBOOCam\AuthBOOCam.csproj", "{C367E4A4-715C-4F6A-9A8E-73DBF096280E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C367E4A4-715C-4F6A-9A8E-73DBF096280E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C367E4A4-715C-4F6A-9A8E-73DBF096280E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C367E4A4-715C-4F6A-9A8E-73DBF096280E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C367E4A4-715C-4F6A-9A8E-73DBF096280E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7BE55DD-3BB3-4071-88A8-020EE8732795}
+	EndGlobalSection
+EndGlobal
